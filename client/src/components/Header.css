@@ -1,0 +1,33 @@
+.header-container {
+  width: 100%;
+  background: #abc2f3;
+  padding: 18px 28px;
+  border-radius: 14px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.header-title {
+  text-align: center;
+}
+
+.header-title h1 {
+  color: #003c92;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.header-title p {
+  color: #222;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 5px;
+}
